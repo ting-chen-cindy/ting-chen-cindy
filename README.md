@@ -1,3 +1,5 @@
+I am editing the README file. Adding some more details about the project description
+
 - 👋 Hi, I’m @ting-chen-cindy
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning git/github
